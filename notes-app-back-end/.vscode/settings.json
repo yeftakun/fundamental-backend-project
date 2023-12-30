@@ -1,3 +1,8 @@
 {
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "background.style": {
+        "background-position": "96% 0px",
+        "background-size": "430px",
+        "opacity": 0.1
+    },
 }
