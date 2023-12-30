@@ -8,7 +8,7 @@
     "lint": "eslint ./src"
   },
   "keywords": [],
-  "author": "",
+  "author": "Yefta Asyel",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.56.0",
